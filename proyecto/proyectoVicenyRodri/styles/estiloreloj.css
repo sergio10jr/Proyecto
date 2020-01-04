@@ -1,0 +1,22 @@
+#reloj{
+	background-color: MEDIUMSLATEBLUE;
+	margin: 8px;
+	border: 2px;
+	text-align: center;
+	width:325px;
+	height:400;
+	
+				}
+
+#cajahora{
+	color:darkblue;
+	border: 2px;
+	margin: 8px;
+	text-align: center;
+	width:600;
+	height:600;
+	background-color:LIGHTGOLDENRODYELLOW;
+	text-align:center;
+	font-size:60px;	
+}
+				

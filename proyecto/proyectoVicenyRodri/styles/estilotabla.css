@@ -1,0 +1,21 @@
+
+td.lunes {
+	background-color: rgb(100,50,150);
+}
+td.martes {
+	background-color: rgb(100,100,125);
+}
+td.miercoles {
+	background-color: rgb(100,150,100);
+}
+td.jueves {
+	background-color: rgb(100,200,75);
+}
+td.viernes {
+	background-color: rgb(100,255,50);
+}
+td {
+	text-align: center; 
+	background-color: rgb(187, 143, 206);
+}
+
